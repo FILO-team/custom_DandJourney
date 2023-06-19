@@ -1,6 +1,6 @@
 from dotenv import load_dotenv
 import os
-load_dotenv("/home/ubuntu/DandJourney/key.env")
+load_dotenv("/home/ubuntu/custom_DandJourney/key.env")
 
 VenvValue = os.environ
 
